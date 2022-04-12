@@ -1,0 +1,13 @@
+.homeContent {
+    margin: 30vh auto;
+    text-align: center;
+}
+
+.startBtn {
+    background-color: darkorange;
+    font-size: 30pt;
+    border: solid black 10px;
+    border-radius: 20px;
+    width: 500px;
+    height: 200px;
+}

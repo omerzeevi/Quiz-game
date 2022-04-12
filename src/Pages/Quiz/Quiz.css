@@ -1,0 +1,11 @@
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.quizScore {
+    text-transform: uppercase;
+    margin: 10px;
+}
